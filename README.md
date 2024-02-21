@@ -1,11 +1,11 @@
 # Driving Simulator - Beep Beep
 ## Occidental College - Game Design Final Project - Mentored by Prof.Sheldon Schiffer
 ### File Descriptions
-- The Map-Viewport-Interface-Input.pdf includes our initial thoughts and description of our map, viewport, interface, and input designs.
-- The Final Game Design Document.pdf introduces our team members, includes precise gameplay overview, player base, comparable games, final game map and navigation, game art, sample game play description, and techinical Features.
-- The rest of the files in this repository compose the game. Although I didn't upload the 'PackageCache' file that I have in my local machine, I tried to download what is on this repository and imported to the Unity, the game run fine.
-- 'Asset' folder: has all the assets in each level, including the motion scripts, which is written in C#
-- 'Scene' folder: includes the 5 scenes of our game (Mainmenu, level1, level2, level3, level4), some other testing scenes, and some assets that applies to all the scenes.
+- The _Map-Viewport-Interface-Input.pdf_ includes our initial thoughts and description of our map, viewport, interface, and input designs.
+- The _Final Game Design Document.pdf_ introduces our team members, includes precise gameplay overview, player base, comparable games, final game map and navigation, game art, sample game play description, and techinical Features.
+- The rest of the files in this repository compose the game. Although I didn't upload the '_PackageCache_' file that I have in my local machine, I tried to download what is on this repository and imported to the Unity, the game run fine.
+- '_Asset_' folder: has all the assets in each level, including the motion scripts, which is written in C#
+- '_Scene_' folder: includes the 5 scenes of our game (Mainmenu, level1, level2, level3, level4), some other testing scenes, and some assets that applies to all the scenes.
 ### Steps to open our game 
 1. Make sure you have UnityHub downloaded, the version we used is 3.7.0: [https://unity.com/](https://unity.com/unity-hub)
 2. Obtain and extract the ZIP file of my repository, removing any PDF files from the folder.
