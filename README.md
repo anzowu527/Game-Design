@@ -7,7 +7,7 @@
 - 'Scene' folder: includes the 5 scenes of our game (Mainmenu, level1, level2, level3, level4), some other testing scenes, and some assets that applies to all the scenes.
 ### Steps to open our game
 1. Make sure you have UnityHub downloaded, the version we used is 3.7.0: [https://unity.com/](https://unity.com/unity-hub)
-2.Obtain and extract the ZIP file of my repository, removing any PDF files from the folder.
+2. Obtain and extract the ZIP file of my repository, removing any PDF files from the folder.
 3. Launch the app and sign in.
 4. Navigate to 'Projects' on the left side of the window to access the Projects panel on the right.
 5. Click the small triangle next to the 'Add' button to reveal a dropdown menu.
