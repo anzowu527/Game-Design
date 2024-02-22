@@ -1,5 +1,5 @@
 # Driving Simulator - Beep Beep
-## Occidental College - Game Design Final Project - Mentored by Prof.Sheldon Schiffer
+## Occidental College - Game Design Final Project
 ### File Descriptions
 - The _**Map-Viewport-Interface-Input.pdf**_ includes our initial thoughts and description of our map, viewport, interface, and input designs.
 - The _**Final Game Design Document.pdf**_ introduces our team members, includes precise gameplay overview, player base, comparable games, final game map and navigation, game art, sample game play description, and techinical Features.
