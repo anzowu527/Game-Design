@@ -1,12 +1,12 @@
 # Driving Simulator - Beep Beep
-## Occidental College - Game Design Final Project
+## Occidental College - Game Design Project
 
-<img width="333" alt="Screen Shot 2024-02-21 at 8 02 50 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/80dd5346-4e90-444d-bf80-80f4c91b29b4">
-<img width="333" alt="Screen Shot 2024-02-21 at 8 00 16 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/3d01918d-c5a2-418f-8903-211cf263f122">
-<img width="333" alt="Screen Shot 2024-02-21 at 7 54 21 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/310b4fa6-10ce-4793-8649-c1d7e4c3702f">
-<img width="333" alt="Screen Shot 2024-02-21 at 7 54 40 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/c65136bb-564c-4aa1-bd77-31e2de0e8bed">
-<img width="333" alt="Screen Shot 2024-02-21 at 7 57 42 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/a1111318-f717-4354-8bfa-ad160ee17c89">
-<img width="333" alt="Screen Shot 2024-02-21 at 7 59 20 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/ec245045-f37c-4434-bf63-5120e2fe2d69">
+<img width="300" alt="Screen Shot 2024-02-21 at 8 02 50 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/80dd5346-4e90-444d-bf80-80f4c91b29b4">
+<img width="300" alt="Screen Shot 2024-02-21 at 8 00 16 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/3d01918d-c5a2-418f-8903-211cf263f122">
+<img width="300" alt="Screen Shot 2024-02-21 at 7 54 21 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/310b4fa6-10ce-4793-8649-c1d7e4c3702f">
+<img width="300" alt="Screen Shot 2024-02-21 at 7 54 40 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/c65136bb-564c-4aa1-bd77-31e2de0e8bed">
+<img width="300" alt="Screen Shot 2024-02-21 at 7 57 42 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/a1111318-f717-4354-8bfa-ad160ee17c89">
+<img width="300" alt="Screen Shot 2024-02-21 at 7 59 20 PM" src="https://github.com/anzowu527/Game-Design/assets/77874807/ec245045-f37c-4434-bf63-5120e2fe2d69">
 
 ### File Descriptions
 - The _**Map-Viewport-Interface-Input.pdf**_ includes our initial thoughts and description of our map, viewport, interface, and input designs.
